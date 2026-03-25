@@ -15,3 +15,12 @@ Este repositorio tiene como objetivo gestionar y almacenar todas las prácticas,
 > *"El éxito es la suma de pequeños esfuerzos, repetidos día tras día." - Jefe Maestro*
 
 ## 📁 Estructura del Repositorio
+╔════════════════════════════════════════╗
+║ ███╗░░░███╗░█████╗░██████╗░ ║
+║ ████╗░████║██╔══██╗██╔══██╗ ║
+║ ██╔████╔██║███████║██████╔╝ ║
+║ ██║╚██╔╝██║██╔══██║██╔══██╗ ║
+║ ██║░╚═╝░██║██║░░██║██║░░██║ ║
+║ ╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝ ║
+║ JEFE MAESTRO - HALO ║
+╚════════════════════════════════════════╝
