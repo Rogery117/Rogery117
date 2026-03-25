@@ -1,6 +1,5 @@
 # ¡Hola! 👋 Soy Rogelio Simei Hernández Pérez
 
-[![Master Chief](https://img.shields.io/badge/Halo-Master%20Chief-117?style=for-the-badge&logo=xbox&color=green)]()
 
 ## Sobre mí 🎮
 
