@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 🎮 Sistemas Abiertos - Ingeniería en Sistemas Computacionales
 
-![Master Chief](https://cdn.pixabay.com/photo/2018/03/06/12/31/helmet-3203425_1280.png)
+![Master Chief Helmet](https://i.imgur.com/8qZqKqL.png)
 
 ## 📋 Datos del Alumno
 | Campo | Información |
