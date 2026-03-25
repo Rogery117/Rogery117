@@ -1,7 +1,20 @@
 ## Hi there 👋
 # 🎮 Sistemas Abiertos - Ingeniería en Sistemas Computacionales
 
-![Master Chief](https://github.com/user-attachments/assets/6c4e2c8b-4b6a-4b6a-9b1e-8c3e2a1d5f7e)
+/
+| ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ |
+| █ █ |
+| █ ╔══════════════╗ █ |
+| █ ║ CHIEF-117 ║ █ |
+| █ ╚══════════════╝ █ |
+| █ ▄▄▄▄▄▄▄▄▄▄▄ █ |
+| █ █ HALO █ █ |
+| █ █ MASTER █ █ |
+| █ █ CHIEF █ █ |
+| █ ▀▀▀▀▀▀▀▀▀▀▀ █ |
+| █ █ |
+| ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀ |
+__________________________/
 
 ## 📋 Datos del Alumno
 | Campo | Información |
